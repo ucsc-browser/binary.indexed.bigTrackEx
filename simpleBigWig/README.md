@@ -10,7 +10,7 @@ variableStep chrom=chr2 span=1
 This can be loaded as a custom track when proceeded by a [custom track line](http://genome.ucsc.edu/goldenPath/help/customTrack.html#TRACK) and pasted in the Browser Custom Tracks page.
 
 <pre>
-track name=Dens type=bigWig description="Density of ZFBS_morph overlaps" visibility=full db=hg19 autoScale=off viewLimits=0.0:20 color=165,42,42 yLineMark=1 yLineonoff=on priority=100 
+track name=Dens type=wiggle_0  description="Density of ZFBS_morph overlaps" visibility=full db=hg19 autoScale=off viewLimits=0.0:20 color=165,42,42 yLineMark=1 yLineonoff=on priority=100 
 variableStep chrom=chr1 span=1
 368244       2
 variableStep chrom=chr2 span=1
