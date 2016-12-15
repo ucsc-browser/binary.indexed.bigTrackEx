@@ -1,0 +1,24 @@
+track name=Dens type=bigWig description="Density of ZFBS_morph overlaps" visibility=full db=hg19 autoScale=off viewLimits=0.0:20 color=165,42,42 yLineMark=1 yLineonoff=on priority=100
+variableStep chrom=chr1 span=1
+368244       2
+variableStep chrom=chr2 span=1
+368250       2
+variableStep chrom=chr3 span=1
+368256       2
+variableStep chrom=chr4 span=1
+368262       2
+variableStep chrom=chr5 span=1
+368268       2
+variableStep chrom=chr6 span=1
+368274       2
+variableStep chrom=chr7 span=1
+368280       2
+variableStep chrom=chr8 span=1
+368286       2
+variableStep chrom=chr9 span=1
+368244       2
+variableStep chrom=chr10 span=1
+368250       2
+variableStep chrom=chr11 span=1
+368286       2
+
