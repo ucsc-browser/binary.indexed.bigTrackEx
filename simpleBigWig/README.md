@@ -35,7 +35,7 @@ The resulting out.bw is a binary indexed version of the text-based wigInput allo
 track name=Dens_bw type=bigWig description="Density of ZFBS_morph overlaps" visibility=full db=hg19 autoScale=off viewLimits=0.0:20 color=165,42,42 yLineMark=1 yLineonoff=on priority=100 bigDataUrl=http://location/of/file/out.bw
 </pre>
 
-A URL to this text file can even be sent to the Browser shortening the step further. Such as pasting in this link: https://raw.githubusercontent.com/ucsc-browser/binary.indexed.bigTrackEx/master/simpleBigWig/customTrack.bigWig
+A URL to this text file can even be sent to the Browser shortening the step further. Such as pasting in this link: https://raw.githubusercontent.com/ucsc-browser/binary.indexed.bigTrackEx/master/simpleBigWig/customTrack.wigAsBigWig
 
 Here is even a quick version of a URL pointing to the Browser that also loads this custom track:
 
