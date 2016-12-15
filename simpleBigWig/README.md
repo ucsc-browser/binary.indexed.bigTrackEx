@@ -41,7 +41,7 @@ Here is even a quick version of a URL pointing to the Browser that also loads th
 
 
 
-http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr9%3A368243-368248&hgct_customText=https://raw.githubusercontent.com/ucsc-browser/binary.indexed.bigTrackEx/master/simpleBigWig/customTrack.bigWig
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr9%3A368243-368248&hgct_customText=https://raw.githubusercontent.com/ucsc-browser/binary.indexed.bigTrackEx/master/simpleBigWig/customTrack.wigAsBigWig
 
 
 
